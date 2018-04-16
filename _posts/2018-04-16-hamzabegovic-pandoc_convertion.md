@@ -4,8 +4,6 @@ title: Pandoc Conversion Test
 image: /img/hello_world.jpeg
 ---
 
-# *From*: "Modeling: A Study in Words and Meanings" by Willard McCarty
-
 <h1 id="section">19.</h1>
 <h1 id="modeling-a-study-in-words-and-meanings">Modeling: A Study in Words and Meanings</h1>
 <h2 id="willard-mccarty">Willard McCarty</h2>
@@ -82,7 +80,7 @@ image: /img/hello_world.jpeg
 
 <p>To the connotations of “representation” I have already reviewed, KR adds the demarca-tional term “knowledge.” The point I wish to draw from current epistemology is a simple one, for which I quote Michael Williams – at length, because the issues are consequential for us:</p>
 <blockquote>
-<p><small>“Knowledge” is an honorific title we confer on our paradigm cognitive achievements …. More generally, “know” is a “success-term”, like “win” or “pass” (a test). Knowledge is not just a factual state or condition but a particular normative status. Such statuses are related to appropriate factual states: winning depends on crossing the line before any other competitor. But they also depend on meeting certain norms or standards which define, not what you do do, but what you must or ought to do. To characterize someone’s claim as expressing or not expressing knowledge is to pass judgement on it. Epistemic judgements are thus a particular kind of value-judgement ….</p>
+<p>“Knowledge” is an honorific title we confer on our paradigm cognitive achievements …. More generally, “know” is a “success-term”, like “win” or “pass” (a test). Knowledge is not just a factual state or condition but a particular normative status. Such statuses are related to appropriate factual states: winning depends on crossing the line before any other competitor. But they also depend on meeting certain norms or standards which define, not what you do do, but what you must or ought to do. To characterize someone’s claim as expressing or not expressing knowledge is to pass judgement on it. Epistemic judgements are thus a particular kind of value-judgement ….</p>
   
 </blockquote>
 <blockquote>
@@ -92,7 +90,7 @@ image: /img/hello_world.jpeg
 </blockquote>
 <blockquote>
   
-<p>(2001: 11–12)</small></p>
+<p>(2001: 11–12)</p>
 
 </blockquote>
 <p>Projects such as Cyc, based on what Northrop Frye characterized as the discredited Wissenscbaft-theory of knowledge – that its accumulation in vast quantities will one day, somehow, result in understanding<sup>8</sup> – clearly assume if not perfect closure, then a threshold beyond which lack of perfection ceases to matter. But to whom, and for what purposes?<sup>9</sup> Apart from such questions, and the serious doubts within computer science on the wisdom of building massive knowledge-bases for expert systems1<sup>10</sup> – there are, again, the very serious demarcational issues. When, for example, one of the leading theorists of KR writes in passing that, “Perhaps there are some kinds of knowledge that cannot be expressed in logic” (Sowa 2000: 12), our intellectual claustrophobia tells an important tale. Not, of course, the only one. If the point of modeling is to fail well, then KR has a vital quality-control function to serve.</p>
