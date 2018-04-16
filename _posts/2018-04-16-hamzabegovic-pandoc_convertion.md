@@ -23,7 +23,7 @@ image: /img/hello_world.jpeg
 </blockquote>
 
 <blockquote>
-<p>Kate Grenville, <em>The Idea of Perfection</em> (Sydney: Picador, 1999): 6–3 </small></p>
+<p>Kate Grenville, <i>The Idea of Perfection</i> (Sydney: Picador, 1999): 6–3 </small></p>
 </blockquote>
 
 <h1 id="introduction">Introduction</h1>
