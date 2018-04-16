@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pythong Unit 1-2 Completion!
+title: Python Unit 1-2 Completion!
 image: /img/hello_world.jpeg
 ---
 
