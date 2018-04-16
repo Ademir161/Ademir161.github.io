@@ -165,4 +165,4 @@ image: /img/hello_world.jpeg
 
 <h1 id="bibliography">Bibliography</h1>
 
-Here you can find [PDF](mccarty_7pages.pdf) and [MS Word](.../files/mccarty_7pages.pdf) versions.
+Here you can find [mccarty_7pages.pdf](../files/mccarty_7pages.pdf) and [MS Word](.../files/mccarty_7pages.pdf) versions.
