@@ -4,6 +4,8 @@ title: Pandoc Conversion Test
 image: /img/hello_world.jpeg
 ---
 
+Here you can find [PDF](../files/mccarty_7pages.pdf) and [MS Word](../files/mccarty_7pages.docx) versions.
+
 <h1 id="section">19.</h1>
 <h1 id="modeling-a-study-in-words-and-meanings">Modeling: A Study in Words and Meanings</h1>
 <h2 id="willard-mccarty">Willard McCarty</h2>
@@ -164,5 +166,3 @@ image: /img/hello_world.jpeg
 <p><strong><sup>19</sup></strong> Rowe (1994), quoted by (2002: 245); see also Winsberg (2001).</p>
 
 <h1 id="bibliography">Bibliography</h1>
-
-Here you can find [PDF](../files/mccarty_7pages.pdf) and [MS Word](../files/mccarty_7pages.docx) versions.
