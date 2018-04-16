@@ -11,7 +11,7 @@ image: /img/hello_world.jpeg
 <h2 id="willard-mccarty">Willard McCarty</h2>
 
 <blockquote>
-<p><small>Out on site, you were never parted from your plans. They were your Bible. They got dog-eared, yellowed, smeared with mud, peppered with little holes from where you had unrolled them on the ground. But although so sacred, the plans were only the start. Once you got out there on the site everything was different. No matter how carefully done, the plans could not foresee the <em>variables</em>. It was always interesting, this moment when you saw for the first time the actual site rather than the idealised drawings of it.</p>
+<p>Out on site, you were never parted from your plans. They were your Bible. They got dog-eared, yellowed, smeared with mud, peppered with little holes from where you had unrolled them on the ground. But although so sacred, the plans were only the start. Once you got out there on the site everything was different. No matter how carefully done, the plans could not foresee the <em>variables</em>. It was always interesting, this moment when you saw for the first time the actual site rather than the idealised drawings of it.</p>
 </blockquote>
 
 <blockquote>
@@ -23,7 +23,7 @@ image: /img/hello_world.jpeg
 </blockquote>
 
 <blockquote>
-<p>Kate Grenville, <i>The Idea of Perfection</i> (Sydney: Picador, 1999): 6–3 </small></p>
+<p>Kate Grenville, <em>The Idea of Perfection</em> (Sydney: Picador, 1999): 6–3</p>
 </blockquote>
 
 <h1 id="introduction">Introduction</h1>
