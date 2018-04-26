@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python Unit 3.4 Completion!
+title: Python Unit 3-4 Completion!
 image: /img/hello_world.jpeg
 ---
 
