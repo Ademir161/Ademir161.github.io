@@ -4,7 +4,7 @@ title: Webscraping Homework
 image: /img/hello_world.jpeg
 ---
 
-The task was to download all issues of "Richmond Times Dispatch" with wget. First I copied the source code of the collection 
+The task was to download all issues of "Richmond Times Dispatch" with wget. First I copied the source code of the [collection] 
 (http://www.perseus.tufts.edu/hopper/collection?collection=Perseus:collection:RichTimes) into Sublime Text and searched with regular
 expression `text[?]doc.+.2006.\d\d.\d\d\d\d` for all the links.
 
