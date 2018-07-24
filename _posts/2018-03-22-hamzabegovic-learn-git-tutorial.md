@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git Tutorial Complete! (Hamzabegovic)
+title: Git Tutorial Complete!
 image: /img/hello_world.jpeg
 ---
 
