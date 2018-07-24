@@ -76,4 +76,14 @@ for f in lof:
         counter += 1
         if counter % 100 == 0:
             print(counter)
- ```
+```
+
+### Example:
+
+```
+#ID: 1860-11-10_article_21
+#DATE: 1860-11-10
+#TYPE: article
+#HEADER: NO HEADER
+#TEXT: ;;; Lampblack and Oil the cause of Fire.;;; --An English manufacturer states that one of his workmen placed a ladle, which had been recently used for the purpose of measuring linseed oil, upon the top of a cask of lampblack, and a few drops of the oil fell into the cask.;;; One evening, just before closing the works, he discovered a very disagreeable smell, and searched the factory to ascertain the cause, and, to his surprise, found the whole of the black in the cask resemble a large ball of fire, and there is no doubt that before morning it would have burst into a flame, and caused not only the destruction of the stock, but of the entire premises.;;; My plan has been (says the above manufacturer,) since the occurrence, not to keep more black in stock than is required for present use. Wood or canvas painted with lampblack and oil ought to be carefully looked to, at least until well seasoned.;;; 
+```
