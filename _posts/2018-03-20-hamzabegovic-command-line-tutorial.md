@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Command Line Tutorial Complete! (Hamzabegovic)
+title: Command Line Tutorial Complete!
 image: /img/hello_world.jpeg
 ---
 
