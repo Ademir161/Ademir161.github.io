@@ -13,8 +13,8 @@ advertises and other unnecessary stuff. I pretty much used the script, which was
 ```
 import re, os
 
-source = "path_where_initial_files_are"
-target = "path_to_save_new_files"
+source = os.path.abspath('issues')
+target = os.path.abspath('target')
 
 lof = os.listdir(source)
 counter = 0 # general counter to keep track of the progress
