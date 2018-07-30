@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Structured Data
+title: Topic Modeling
 image: /img/hello_world.jpeg
 ---
 
