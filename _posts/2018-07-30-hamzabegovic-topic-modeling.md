@@ -7,7 +7,7 @@ image: /img/hello_world.jpeg
 ### Task:
 We had to topic model our dispatch with a provided R script and compare two different versions. One with using 30 topics and one with
 40 topics. All instructions regarding the script and using R were included in the script itself. The only number I changed between both
-scripts were on line 76 the number of topics. I am not sure though if there had to be changed anything more.
+scripts were on line 76 the number of topics and the reiteration from 100 to 500 on line 79. I am not sure though if there had to be changed anything more.
 
 ### Script:
 ```
@@ -292,10 +292,11 @@ for(i in seq(1, 40, 1)){
 
 ### Results:
 #### 40 topics:
+![](../img/hamzabegovic/tm40_A20_50_iter500_Max10_Topic_1.png)
 ![](../img/hamzabegovic/dendrogram_of_40_topics.png)
 
 #### 30 topics:
+![](../img/hamzabegovic/tm30_A20_50_iter500_Max10_Topic_1.png)
 ![](../img/hamzabegovic/dendrogram_of_30_topics.png)
 
-I am not sure if this is all correctly done, but the 40 topic dendrogram seems to be a lot more precise and provide more information than
-the 30 topic one, which seems bit random in terms of topics. 
+I am not sure if this is all correctly done, but the 40 topic dendrogram seems to be a lot more precise and provide more information than the 30 topic one, which seems bit random in terms of topics. 
